@@ -1,5 +1,11 @@
 # BaradDur
 
+## Usage
+
+Configure OURA_CLIENT_ID and OURA_CLIENT_SECRET environment variables
+
+## Phoenix
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
