@@ -1,5 +1,7 @@
 # BaradDur
 
+A tool for monitoring and displaying Oura Ring data using the Oura API.
+
 ## Usage
 
 Configure OURA_CLIENT_ID and OURA_CLIENT_SECRET environment variables
