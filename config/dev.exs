@@ -3,7 +3,8 @@ use Mix.Config
 # Configure your database
 config :baraddur, BaradDur.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "",
+  socket_dir: "/run/postgresql/",
   database: "baraddur_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
