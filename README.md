@@ -1,5 +1,7 @@
 # BaradDur
 
+> Barad-dûr ("Dark Fortress") was the Dark Lord Sauron's primary stronghold in Mordor, serving as his base of operations in Middle-earth during the Second and Third Ages.
+
 A tool for monitoring and displaying Oura Ring data using the Oura API.
 
 ## Usage
